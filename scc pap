@@ -1,0 +1,41 @@
+*{
+margin:0;
+padding:0;
+.kaushan-script-regular {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+}
+#banner{
+    background: linear-gradient(rgba(0,0,0,0.5),#009688,url(images/banner.jpg);
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+}
+.logo{
+    width:140px;
+    position : absolute;
+    top: 4%;
+    left: 10%;
+}
+.banner-text{
+    text-align:center;
+    color: 3fff
+    padding-top: 180px;
+}
+.banner-text h1{
+    font-seze: 130px ;
+    .kaushan-script-regular {
+        font-family: "Kaushan Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+.banner-text p{
+    font-size: 20px;
+    font-style: italic;
+
+}
