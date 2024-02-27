@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>App Turismo</title>
-        <link rel="stylesheet" href="Untitled-2.scss">
+        <link rel="stylesheet" href="style.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
@@ -10,13 +10,13 @@
     <section id="banner">
         <img src="images/logo.png" class="logo">
         <div class="banner-text">
-            <h1> hair studio</h1>
+            <h1> Turismo Braga</h1>
             <p> style your hair is style your life</p>
             <div class="banner-btn">
-                <a href="#">find out</a>
-                <a href="#">read more</a>
+                <a href="#">Find out</a>
+                <a href="#">Read more</a>
 
             </div>
         </div>
     </section>
-    
+    </html>
