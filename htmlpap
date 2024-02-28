@@ -13,10 +13,19 @@
             <h1> Turismo Braga</h1>
             <p> style your hair is style your life</p>
             <div class="banner-btn">
-                <a href="#">Find out</a>
-                <a href="#">Read more</a>
+                <a href="#"><span></span>Find out</a>
+                <a href="#"><span></span>Read more</a>
 
             </div>
         </div>
     </section>
-    </html>
+    <div id="sidenav">
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">FEATURES</a></li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">TESTIMONIALS</a></li>
+                <li><a href="#">MEET US</a></li>
+            </ul>
+        </nav>
